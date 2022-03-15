@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/22.3.14/miui_LMIPRE_22.3.14_014eadc4db_12.0.zip
+  ROM_URL: http://bigota.d.miui.com/22.3.14/miui_LMIPRE_22.3.14_014eadc4db_12.0.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
