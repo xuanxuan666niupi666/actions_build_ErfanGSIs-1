@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.42_OTA_0420_all_2112212058_7edbf2586a924a87.zip
+  ROM_URL: https://bigota.d.miui.com/22.3.14/miui_LMIPRE_22.3.14_014eadc4db_12.0.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
