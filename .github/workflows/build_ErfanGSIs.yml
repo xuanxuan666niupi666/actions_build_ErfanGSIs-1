@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.1.1.28.DEV/miui_ATOM_V13.0.1.1.28.DEV_ec864651d1_12.0.zip
-  ROM_NAME: HM 10X 5G
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2199_A_12.0.10.2.W10.V000L1-update-full_1660551042.zip
+  ROM_NAME: Neo6SE
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
